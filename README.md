@@ -1,3 +1,5 @@
 # EDNet
-pre_train in SCENE FLOW Dataset \n
-refine in KITTI 2015
+## pre_train
+SCENE FLOW Dataset
+## refine
+KITTI 2015
